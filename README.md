@@ -22,7 +22,8 @@
 >General Philosophy -Smart contract recommendations -Known Attacks - Software Engineering -Security Tools - Tokens -Bug Bounties 
 
 ## Step 3 
-....
+
++ [Resources](./share.md)
 
 
 <p align="center">

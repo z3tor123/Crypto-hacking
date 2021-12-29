@@ -19,4 +19,7 @@
 
 + [Links -Netsq](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA/videos
 ) <br>
+
++ [Links -Netsq](https://nakamotoinstitute.org/bitcoin/) <br>
+
 > todo : add a discord hook to grab resources from smart-contract discord channel and put it here

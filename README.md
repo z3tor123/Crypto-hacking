@@ -13,10 +13,13 @@
 
 ## Step 2 
 
-+ [Stuff](./concepts.md)
-[THIS RESOURCE ALL U NEED :)](https://consensys.github.io/smart-contract-best-practices/)
++ [Stuff](./concepts.md) <br>
 
->.
+> research 
+
++ [THIS RESOURCE ALL U NEED :)](https://consensys.github.io/smart-contract-best-practices/) <br>
+
+>General Philosophy -Smart contract recommendations -Known Attacks - Software Engineering -Security Tools - Tokens -Bug Bounties 
 
 ## Step 3 
 ....

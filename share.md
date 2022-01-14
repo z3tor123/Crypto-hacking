@@ -22,4 +22,6 @@
 
 + [Links -Netsq](https://nakamotoinstitute.org/bitcoin/) <br>
 
++ [Links -Netsq](https://github.com/crytic/not-so-smart-contracts)<br>
+
 > todo : add a discord hook to grab resources from smart-contract discord channel and put it here

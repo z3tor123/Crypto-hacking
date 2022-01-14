@@ -8,12 +8,12 @@
 
 > go through  
 
-+ [Blockchain](./intro-blockchain.md) <br>
-+ [Ethereum](./eth.md)<br>
++ [Blockchain](./src/intro-blockchain.md) <br>
++ [Ethereum](./src/eth.md)<br>
 
 ## Step 2 
 
-+ [Stuff](./concepts.md) <br>
++ [Stuff](./src/concepts.md) <br>
 
 > research 
 
@@ -23,7 +23,7 @@
 
 ## Step 3 
 
-+ [Resources](./share.md)
++ [Resources](./src/share.md)
 
 
 <p align="center">

@@ -1,4 +1,4 @@
-
+![Crypto hacking](https://user-images.githubusercontent.com/67026153/149589564-3ed03b81-03fa-41b6-9ef1-882ae3b08008.png)
 
 + [Youtube -](https://www.youtube.com/watch?v=P8LXLoTUJ5g&t=823s) <br>
 + [Youtube -](https://www.youtube.com/watch?v=ozqOlUVKL1s) <br>
@@ -21,5 +21,7 @@
 ) <br>
 
 + [Links -Netsq](https://nakamotoinstitute.org/bitcoin/) <br>
+
++ [Links -Netsq](https://github.com/crytic/not-so-smart-contracts)<br>
 
 > todo : add a discord hook to grab resources from smart-contract discord channel and put it here

@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/67026153/149590168-92b2636e-2c5a-4a4d-b3da-9b1940ba5d3d.png)
+
 # Cryptocurrency [eth smart contract] hacking 
 
 <p align="center">
@@ -25,6 +27,9 @@
 
 + [Resources](./src/share.md)
 
+<p align="center">
+<img src='https://media.giphy.com/media/l0Iyl55kTeh71nTXy/giphy.gif'>
+</p>
 
 <p align="center">
     <a href="https://thefamasgame.medium.com/">

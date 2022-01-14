@@ -25,6 +25,9 @@
 
 + [Resources](./share.md)
 
+<p align="center">
+<img src='https://media.giphy.com/media/l0Iyl55kTeh71nTXy/giphy.gif'>
+</p>
 
 <p align="center">
     <a href="https://thefamasgame.medium.com/">

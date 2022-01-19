@@ -24,4 +24,5 @@
 
 + [Links -Netsq](https://github.com/crytic/not-so-smart-contracts)<br>
 
++ [Links -Netsq](https://github.com/jpantunes/awesome-cryptoeconomics)<br>
 > todo : add a discord hook to grab resources from smart-contract discord channel and put it here

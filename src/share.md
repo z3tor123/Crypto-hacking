@@ -25,4 +25,10 @@
 + [Links -Netsq](https://github.com/crytic/not-so-smart-contracts)<br>
 
 + [Links -Netsq](https://github.com/jpantunes/awesome-cryptoeconomics)<br>
++ [Links -Netsq](https://github.com/ethereumbook/ethereumbook) <br>
+> books
++ [Links -Netsq](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)<br>
+>all u need to know about hacking blockchain
++ [Links -Netsq](https://www.blockthreat.io/)<br>
+*news letter*
 > todo : add a discord hook to grab resources from smart-contract discord channel and put it here

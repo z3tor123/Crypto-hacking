@@ -31,4 +31,7 @@
 *news letter*
 + [Links -Netsq](https://github.com/blockthreat/blocksec-ctfs)<br>
 *ctf challenges*
++ [Links -Netsq](https://github.com/gakonst/solidity-book)<br>
+*solidity-book*
+
 > todo : add a discord hook to grab resources from smart-contract discord channel and put it here

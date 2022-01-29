@@ -33,5 +33,7 @@
 *ctf challenges*
 + [Links -Netsq](https://github.com/gakonst/solidity-book)<br>
 *solidity-book*
-
++ [Links -Netsq](https://docs.chain.link/docs/conceptual-overview/)<br>
+*deploy an app in the blockchain with smart contract (soladity and that code is decentrlized...)*
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 > todo : add a discord hook to grab resources from smart-contract discord channel and put it here

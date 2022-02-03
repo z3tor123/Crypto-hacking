@@ -35,7 +35,8 @@
 *solidity-book*
 + [Links -Netsq](https://docs.chain.link/docs/conceptual-overview/)<br>
 *deploy an app in the blockchain with smart contract (soladity and that code is decentrlized...)* <br>
-
++ [Links -Netsq](https://openzeppelin.com/)<br>
+*generate smart contract soladity code*
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
 [ ] Add a discord webhook to grab resources from #smart-contract [NetSq](https://discord.gg/9h7JqhcX8u) channel and put it here
 <br>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>

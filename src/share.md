@@ -37,6 +37,10 @@
 *deploy an app in the blockchain with smart contract (soladity and that code is decentrlized...)* <br>
 + [Links -Netsq](https://openzeppelin.com/)<br>
 *generate smart contract soladity code* <br>
++ [Links -Netsq](https://razzorsec.ml/unchained.html)<br>
+*CTF*<br>
++ [Article -Resources](https://hackernoon.com/andrii-ryzhenko-blockchain-art-images-kitties-instruction-4c748ae71e0a)
+*Embedding ascii art or hex data into ether blocks.*<br>
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
 [ ] Add a discord webhook to grab resources from #smart-contract [NetSq](https://discord.gg/9h7JqhcX8u) channel and put it here
 <br>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>

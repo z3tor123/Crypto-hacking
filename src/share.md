@@ -29,15 +29,15 @@
 > books
 + [Links -Netsq](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)<br>all u need to know about hacking blockchain
 *news letter*
-+ [Links -Netsq](https://github.com/blockthreat/blocksec-ctfs)<br>
++ [Links -Netsq](https://github.com/blockthreat/blocksec-ctfs)
 *ctf challenges*
-+ [Links -Netsq](https://github.com/gakonst/solidity-book)<br>
++ [Links -Netsq](https://github.com/gakonst/solidity-book)
 *solidity-book*
-+ [Links -Netsq](https://docs.chain.link/docs/conceptual-overview/)<br>
++ [Links -Netsq](https://docs.chain.link/docs/conceptual-overview/)
 *deploy an app in the blockchain with smart contract (soladity and that code is decentrlized...)* <br>
-+ [Links -Netsq](https://openzeppelin.com/)<br>
++ [Links -Netsq](https://openzeppelin.com/)
 *generate smart contract soladity code* <br>
-+ [Links -Netsq](https://razzorsec.ml/unchained.html)<br>
++ [Links -Netsq](https://razzorsec.ml/unchained.html)
 *CTF*<br>
 + [Article -Resources](https://hackernoon.com/andrii-ryzhenko-blockchain-art-images-kitties-instruction-4c748ae71e0a)
 *Embedding ascii art or hex data into ether blocks.*<br>

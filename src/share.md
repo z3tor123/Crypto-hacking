@@ -41,6 +41,8 @@
 *CTF*<br>
 + [Article -Resources](https://hackernoon.com/andrii-ryzhenko-blockchain-art-images-kitties-instruction-4c748ae71e0a)
 *Embedding ascii art or hex data into ether blocks.*<br>
++ [Article -Resources](https://github.com/HalbornSecurity/PublicReports)
+*pdfs*
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
 [ ] Add a discord webhook to grab resources from #smart-contract [NetSq](https://discord.gg/9h7JqhcX8u) channel and put it here
 <br>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>

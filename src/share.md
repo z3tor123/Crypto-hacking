@@ -43,6 +43,9 @@
 *Embedding ascii art or hex data into ether blocks.*<br>
 + [Article -Resources](https://github.com/HalbornSecurity/PublicReports)
 *pdfs*<br>
++ [Resources- tools](https://github.com/crytic/slither)
+*Soladity code analyisis*<br>
+
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
 [ ] Add a discord webhook to grab resources from #smart-contract [NetSq](https://discord.gg/9h7JqhcX8u) channel and put it here
 <br>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>

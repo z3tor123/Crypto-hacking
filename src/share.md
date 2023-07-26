@@ -24,4 +24,28 @@
 
 + [Links -Netsq](https://github.com/crytic/not-so-smart-contracts)<br>
 
-> todo : add a discord hook to grab resources from smart-contract discord channel and put it here
++ [Links -Netsq](https://github.com/jpantunes/awesome-cryptoeconomics)<br>
++ [Links -Netsq](https://github.com/ethereumbook/ethereumbook) <br>
+> books
++ [Links -Netsq](https://medium.com/immunefi/hacking-the-blockchain-an-ultimate-guide-4f34b33c6e8b)<br>all u need to know about hacking blockchain
+*news letter*
++ [Links -Netsq](https://github.com/blockthreat/blocksec-ctfs)
+*ctf challenges*
++ [Links -Netsq](https://github.com/gakonst/solidity-book)
+*solidity-book*
++ [Links -Netsq](https://docs.chain.link/docs/conceptual-overview/)
+*deploy an app in the blockchain with smart contract (soladity and that code is decentrlized...)* <br>
++ [Links -Netsq](https://openzeppelin.com/)
+*generate smart contract soladity code* <br>
++ [Links -Netsq](https://razzorsec.ml/unchained.html)
+*CTF*<br>
++ [Article -Resources](https://hackernoon.com/andrii-ryzhenko-blockchain-art-images-kitties-instruction-4c748ae71e0a)
+*Embedding ascii art or hex data into ether blocks.*<br>
++ [Article -Resources](https://github.com/HalbornSecurity/PublicReports)
+*pdfs*<br>
++ [Resources- tools](https://github.com/crytic/slither)
+*Soladity code analyisis*<br>
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>
+[ ] Add a discord webhook to grab resources from #smart-contract [NetSq](https://discord.gg/9h7JqhcX8u) channel and put it here
+<br>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨<br>

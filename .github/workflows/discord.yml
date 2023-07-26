@@ -1,0 +1,13 @@
+on: push
+name: Main workflow
+jobs:
+  github-action:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Send file mrecho.rsa to discord channel
+      uses: sinshutu/upload-to-discord@master
+      env:
+        DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+      with:
+        args: ./src/mrecho.rsa
